@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  padding: 5%;
+  font-size: 16px;
+}
+.party-popper{
+  width: 200px;
+  height: 200px;
+}
+.age-text{
+  padding: 30px;
+}
